@@ -1,0 +1,10 @@
+{
+    "name": "StockSnap",
+    "summary": "Free access to beautiful, high-quality stock photos for almost anything you can think of",
+    "summary_zh": "免费提供精美、高质量的库存照片，几乎可用于你能想到的任何用途",
+    "website": "https://stocksnap.io/",
+    "license": {
+        "name": "CC0",
+        "url": "https://stocksnap.io/license"
+    }
+}

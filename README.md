@@ -1,23 +1,28 @@
 
 
 
-# About
+<p align="center">
+    <img src="logo.svg" />
+</p>
 
-[中文](README.CN)
 
-
-uiset is an open source repository of high-quality, free and commercially available UI resources. anyone can recommend.
+<p  align="center">A high-quality, free and commercially available UI resources. anyone can recommend.</p>
+<p  align="center">
+<img src="https://img.shields.io/github/issues-pr-raw/bimohxh/uiset?label=pull%20request" />
+    <img src="https://img.shields.io/github/license/bimohxh/uiset" />
+    <a href="README.zh.md"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E8%AF%B4%E6%98%8E-orange" /></a>
+</p>
 
 # Category
 
 
-- [**😃 Emoji**](categorys/emoji)
+- [**😃 Emoji**](categorys/emoji) 
 - [**🖼️ Image**](categorys/image)
 - [**🎨 Color**](categorys/color)
 - [**🏳️‍🌈 Icon**](categorys/icon)
 - [**🌫️ Pattern**](categorys/pattern)
 - [**💡 Illustration**](categorys/illustration)
-- [**🎉 Beautify**](categorys/beatify)
+- [**🎉 Beautify**](categorys/beautify)
 - [**🤠 Avatar**](categorys/avatar)
 - [**✒️ Font**](categorys/font)
 
@@ -33,6 +38,7 @@ Clone this project, then create a new directory under `categorys/[category]`, ad
 {
     "name": "Lucide",
     "summary": "A good iconset",
+    "summary_zh": "一个好看的图标集",
     "website": "https://lucide.dev/",
     "github": "https://github.com/lucide-icons/lucide",
     "license": {
@@ -47,7 +53,8 @@ Clone this project, then create a new directory under `categorys/[category]`, ad
 ```
 
 - `name`: Resource name, required.
-- `summary`: A brief description of the resource, required。
+- `summary`: An english brief description of the resource, required。
+- `summary_zh`: A chinese brief description of the resource, required。
 - `website`: Resource website address, required.
 - `github`: The GitHub open source address of the resource, optional.
 - `license`: Resource license agreement, optional (`name` and `url` must be filled in at least one)。

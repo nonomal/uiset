@@ -1,0 +1,10 @@
+{
+    "name": "Hippopx",
+    "summary": "Provide free images that are easier to find in the form of tags",
+    "summary_zh": "以标签的形式提供更容易检索的免费图片",
+    "website": "https://www.hippopx.com/",
+    "license": {
+        "name": "CC0",
+        "url": "https://www.hippopx.com/en/terms-of-use"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "magdeleine",
+    "summary": "Share high-resolution images daily",
+    "summary_zh": "每日分享高分辨率图片",
+    "website": "https://magdeleine.co/",
+    "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0"
+    }
+}

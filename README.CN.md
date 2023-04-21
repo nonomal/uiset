@@ -1,9 +1,16 @@
 
 
 
-# 关于
+<p align="center">
+    <img src="logo.svg" />
+</p>
 
-uiset 是一个收集优质免费可商用 UI 资源的开源仓库，任何人都可以推荐。
+
+<p  align="center">一个收集优质免费可商用 UI 资源的开源仓库，任何人都可以推荐。</p>
+<p  align="center">
+<img src="https://img.shields.io/github/issues-pr-raw/bimohxh/uiset?label=pull%20request" />
+    <img src="https://img.shields.io/github/license/bimohxh/uiset" />
+</p>
 
 # 分类
 
@@ -14,7 +21,7 @@ uiset 是一个收集优质免费可商用 UI 资源的开源仓库，任何人�
 - [**🏳️‍🌈 图标**](categorys/icon)
 - [**🌫️ 图案**](categorys/pattern)
 - [**💡 插画**](categorys/illustration)
-- [**🎉 美化**](categorys/beatify)
+- [**🎉 美化**](categorys/beautify)
 - [**🤠 头像**](categorys/avatar)
 - [**✒️ 字体**](categorys/font)
 
@@ -29,7 +36,8 @@ clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添�
 ```json
 {
     "name": "Lucide",
-    "summary": "好看的SVG图标",
+    "summary": "A good iconset",
+    "summary_zh": "一个好看的图标集",
     "website": "https://lucide.dev/",
     "github": "https://github.com/lucide-icons/lucide",
     "license": {
@@ -44,7 +52,8 @@ clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添�
 ```
 
 - `name`: 资源名，必填。
-- `summary`: 资源简述，必填。
+- `summary`: 英文资源简述，必填。
+- `summary_zh`: 中文资源简述，必填。
 - `website`: 资源网站地址，必填。
 - `github`: 资源的GitHub开源地址，选填。
 - `recommend`: 是否极力推荐（布尔值，选填）

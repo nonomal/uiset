@@ -1,0 +1,8 @@
+{
+    "name": "Unsplash",
+    "summary": "With more than one million high-resolution photos of various types that are free for download and commercial use",
+    "website": "https://unsplash.com/",
+    "license": {
+        "url": "https://unsplash.com/license"
+    }
+}
